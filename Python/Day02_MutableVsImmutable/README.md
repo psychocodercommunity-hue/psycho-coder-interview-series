@@ -308,5 +308,3 @@ common_pitfalls()
 * [StackOverflow – Mutable Default Arguments](https://stackoverflow.com/questions/1132941/least-astonishment-and-the-mutable-default-argument)
 
 ---
-
-💬 **Comment "Day 2" below if you want this README file link!**
